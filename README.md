@@ -8,8 +8,8 @@ Demo:  https://ej2.syncfusion.com/aspnetcore/Grid/DefaultFunctionalities#/fluent
 
 ## Project pre-requisites
 Make sure that you have compatible versions of
-* .NET SDK installed ([.NET ](https://dotnet.microsoft.com/en-us/download)).
-* Visual Studio 2022 ([Visual](https://visualstudio.microsoft.com/downloads/)). or later
+* .NET SDK installed ([.NET ](https://dotnet.microsoft.com/en-us/download))
+* Visual Studio 2022 ([Visual](https://visualstudio.microsoft.com/downloads/)) or later
 
 installed in your machine before starting to work on this project
 
