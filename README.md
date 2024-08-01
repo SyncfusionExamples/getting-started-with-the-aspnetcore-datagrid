@@ -13,7 +13,7 @@ Make sure you have compatible versions of the following IDE and framework instal
 * .NET SDK 6.0 ([.NET ](https://dotnet.microsoft.com/en-us/download))
 * Visual Studio 2022 ([Visual studio](https://visualstudio.microsoft.com/downloads/)) or later
 ---
-* To learn more about the supported IDE and frameworks for our ASP.NET Core controls, please refer to the documentation below: 
+To learn more about the supported IDE and frameworks for our ASP.NET Core controls, please refer to the documentation below: 
 https://ej2.syncfusion.com/aspnetcore/documentation/system-requirements
 
 
