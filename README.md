@@ -1,22 +1,61 @@
-
 # Getting Started with the ASP.NET Core Grid Control
 
-A quick-start project demonstrating the use of the Syncfusion DataGrid control in an ASP.NET Core Web application. This project includes simple code customizations for data grid columns and key features like paging, sorting, filtering, and grouping.
+## Repository Description
 
-Documentation: https://ej2.syncfusion.com/aspnetcore/documentation/grid/getting-started-core
+This repository provides a getting-started sample that demonstrates how to use the Syncfusion ASP.NET Core DataGrid control in a web application with common data presentation features enabled.
 
-Demo:  https://ej2.syncfusion.com/aspnetcore/Grid/DefaultFunctionalities#/fluent
+## Project Overview
 
-## Project pre-requisites 
+This quick-start project showcases the basic setup and usage of the Syncfusion ASP.NET Core DataGrid within an ASP.NET Core Razor Pages application. The sample focuses on configuring grid columns and enabling commonly used features such as paging, sorting, filtering, and grouping. It is designed to help developers understand how to bind data to the grid, define columns declaratively, and enable built-in functionalities with minimal configuration.
+
+The application uses a simple in-memory data source generated in the page model and binds it to the grid in the Razor view. This approach keeps the sample lightweight while clearly illustrating how the grid integrates with ASP.NET Core projects.
+
+## Key Features
+
+- Data binding using Razor Pages
+- Column configuration with headers, formats, and alignment
+- Built-in paging support
+- Sorting, filtering, and grouping enabled
+- Minimal setup for quick learning and experimentation
+
+## Project Prerequisites
+
 Make sure you have compatible versions of the following IDE and framework installed on your machine before starting this project:
 
-* .NET SDK 6.0 ([.NET ](https://dotnet.microsoft.com/en-us/download))
-* Visual Studio 2022 ([Visual studio](https://visualstudio.microsoft.com/downloads/)) or later
----
-To learn more about the supported IDE and frameworks for our ASP.NET Core controls, please refer to the documentation below: 
-https://ej2.syncfusion.com/aspnetcore/documentation/system-requirements
+- .NET SDK 6.0
+- Visual Studio 2022 or later
 
+## Running the Application
 
-## How to run this application:
+Follow the steps below to clone the repository, restore dependencies, and run the application.
 
-To run this application, clone the `getting-started-with-the-aspnetcore-datagrid` repository and open it in Visual Studio. Install the necessary NuGet packages via the package manager, then build and run the project by pressing the F5 key.
+1. Clone the repository and navigate to the project directory:
+
+   ```bash
+   git clone https://github.com/SyncfusionExamples/getting-started-with-the-aspnetcore-datagrid.git
+   cd getting-started-with-the-aspnetcore-datagrid
+   ```
+
+2. Restore the required NuGet packages:
+
+   ```bash
+   dotnet restore
+   ```
+
+3. Run the application using the .NET CLI or Visual Studio:
+
+   ```bash
+   dotnet run
+   ```
+
+After the application starts, launch the displayed application URL in a browser. The DataGrid will render with paging, sorting, filtering, and grouping enabled, displaying sample order data.
+
+## Usage Notes
+
+You can customize the grid by modifying column definitions in the Razor page or by updating the sample data generated in the page model. These changes help explore how different grid features behave with various configurations.
+
+## Additional Resources
+
+- [Syncfusion ASP.NET Core Grid Documentation](https://ej2.syncfusion.com/aspnetcore/documentation/grid/getting-started-core)
+- [Syncfusion ASP.NET Core Demos](https://ej2.syncfusion.com/aspnetcore/grid/defaultfunctionalities#/fluent2)
+- [System Requirements for ASP .NET Core EJ2 Components](https://ej2.syncfusion.com/aspnetcore/documentation/system-requirements)
