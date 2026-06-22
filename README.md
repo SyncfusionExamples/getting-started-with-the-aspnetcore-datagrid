@@ -2,7 +2,7 @@
 
 ## Repository Description
 
-This repository provides a getting-started sample that demonstrates how to use the Syncfusion ASP.NET Core DataGrid control in a web application with common data presentation features enabled.
+This repository provides a getting-started sample that demonstrates how to use the Syncfusion [ASP.NET Core DataGrid](https://www.syncfusion.com/aspnet-core-ui-controls/grid) control in a web application with common data presentation features enabled.
 
 ## Project Overview
 
@@ -12,10 +12,10 @@ The application uses a simple in-memory data source generated in the page model 
 
 ## Key Features
 
-- Data binding using Razor Pages
-- Column configuration with headers, formats, and alignment
-- Built-in paging support
-- Sorting, filtering, and grouping enabled
+- [Data binding](https://ej2.syncfusion.com/aspnetcore/documentation/grid/data-binding/data-binding) using Razor Pages
+- [Column](https://ej2.syncfusion.com/aspnetcore/documentation/grid/columns/columns) configuration with headers, formats, and alignment
+- Built-in [paging](https://ej2.syncfusion.com/aspnetcore/documentation/grid/paging) support
+- [Sorting](https://ej2.syncfusion.com/aspnetcore/documentation/grid/sorting), [filtering](https://ej2.syncfusion.com/aspnetcore/documentation/grid/filtering/filtering), and [grouping](https://ej2.syncfusion.com/aspnetcore/documentation/grid/grouping/grouping) enabled
 - Minimal setup for quick learning and experimentation
 
 ## Project Prerequisites
