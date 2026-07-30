@@ -57,5 +57,5 @@ You can customize the grid by modifying column definitions in the Razor page or 
 ## Additional Resources
 
 - [Syncfusion ASP.NET Core Grid Documentation](https://ej2.syncfusion.com/aspnetcore/documentation/grid/getting-started-core?utm_source=github&utm_medium=listing&utm_campaign=aspnetcore-datagrid-github-samples)
-- [Syncfusion ASP.NET Core Demos](https://ej2.syncfusion.com/aspnetcore/grid/defaultfunctionalities#/bootstrap5?utm_source=github&utm_medium=listing&utm_campaign=aspnetcore-datagrid-github-samples)
+- [Syncfusion ASP.NET Core Demos](https://ej2.syncfusion.com/aspnetcore/grid/defaultfunctionalities#/bootstrap5)
 - [System Requirements for ASP .NET Core EJ2 Components](https://ej2.syncfusion.com/aspnetcore/documentation/system-requirements?utm_source=github&utm_medium=listing&utm_campaign=aspnetcore-datagrid-github-samples)
